@@ -7,7 +7,7 @@ A collection of SwiftUI templates to build iOS apps faster.
 ## Available Templates
 
 - [Settings](https://componentskit.dev/templates#settings)
-- [Paywalls](https://componentskit.dev/templates#paywalls)
+- [Paywalls](https://componentskit.dev/templates#paywall)
 - [Authentication](https://componentskit.dev/templates#auth)
 - [Profiles](https://componentskit.dev/templates#profile)
 
